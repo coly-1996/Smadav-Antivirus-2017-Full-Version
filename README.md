@@ -238,4 +238,4 @@ This repository serves as the official landing page for Smadav Antivirus. The so
 **Get the most recent version of Smadav Antivirus today!**
 
 ---
-**Last updated:** 2026-10-26 23:40:59 UTC
+**Last updated:** 2026-10-27 04:36:17 UTC
